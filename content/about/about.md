@@ -1,6 +1,6 @@
 +++
 date = '2025-09-09T15:30:58-06:00'
-draft = true
+draft = false
 title = 'About Me'
 description = "A little about myself"
 slug = "about"
