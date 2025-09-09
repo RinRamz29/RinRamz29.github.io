@@ -1,0 +1,61 @@
+baseurl = "http://rin.rinscloud.com"
+title = "Rin"
+theme = "hugo-coder"
+languagecode = "en"
+defaultcontentlanguage = "en"
+
+
+[pagination]
+pagerSize = 20
+
+[markup.highlight]
+style = "github-dark"
+
+[params]
+  author = "Rin Ramirez"
+  info = "Software Devolper, wanne be AI Devolper"
+  description = "Rin Ramirez Portfolio"
+  keywords = "blog,developer,personal"
+  avatarURL = "avatar.png"
+  #gravatar = "rin@rinscloud.com"
+
+  faviconSVG = "favicon.svg"
+
+  since = 2024
+
+  enableTwemoji = true
+
+  colorScheme = "auto"
+  hidecolorschemetoggle = false
+
+[taxonomies]
+  category = "categories"
+  series = "series"
+  tag = "tags"
+  author = "authors"
+
+[[params.social]]
+name = "Github"
+icon = "fa-brands fa-github fa-2x"
+weight = 1
+url = "https://github.com/RinRamz29"
+    
+[[params.social]]
+name = "LinkedIn"
+icon = "fa-brands fa-linkedin fa-2x"
+weight = 3
+url = "https://www.linkedin.com/in/juan-pablo-rios-ramirez-9a6258207/"
+
+# Menu links
+[[menu.main]]
+  name = "Blog"
+  weight = 1
+  url  = "posts/"
+[[menu.main]]
+  name = "Portfolio"
+  weight = 2
+  url = "portfolio/"
+[[menu.main]]
+  name = "About"
+  weight = 3
+  url = "about/"
