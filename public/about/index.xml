@@ -6,7 +6,14 @@
     <description>Recent content in Abouts on Rin</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate></lastBuildDate>
+    <lastBuildDate>Tue, 09 Sep 2025 15:30:58 -0600</lastBuildDate>
     <atom:link href="https://rin.rinscloud.com/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me</title>
+      <link>https://rin.rinscloud.com/about/about/</link>
+      <pubDate>Tue, 09 Sep 2025 15:30:58 -0600</pubDate>
+      <guid>https://rin.rinscloud.com/about/about/</guid>
+      <description>&lt;h1 id=&#34;about-me&#34;&gt;&#xA;  About Me&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#about-me&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;Hi, I’m Rin&lt;/p&gt;&#xA;&lt;p&gt;I’m a &lt;strong&gt;game developer&lt;/strong&gt; and &lt;strong&gt;AI enthusiast&lt;/strong&gt; with a passion for building interactive experiences and intelligent systems. My journey began in the world of &lt;strong&gt;game development&lt;/strong&gt;, where I learned how to bring stories, mechanics, and worlds to life through code. Over time, my curiosity led me to the field of &lt;strong&gt;artificial intelligence&lt;/strong&gt;, where I now explore how technology can solve real-world problems and empower people.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
