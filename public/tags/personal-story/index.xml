@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Personal Story on Rin</title>
-    <link>http://localhost:1313/tags/personal-story/</link>
+    <link>http://rin.rinscloud.com/tags/personal-story/</link>
     <description>Recent content in Personal Story on Rin</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Tue, 09 Sep 2025 15:27:52 -0600</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/personal-story/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://rin.rinscloud.com/tags/personal-story/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>From Video Games to Artificial Intelligence</title>
-      <link>http://localhost:1313/posts/game-dev-to-ai/</link>
+      <link>http://rin.rinscloud.com/posts/game-dev-to-ai/</link>
       <pubDate>Tue, 09 Sep 2025 15:27:52 -0600</pubDate>
-      <guid>http://localhost:1313/posts/game-dev-to-ai/</guid>
+      <guid>http://rin.rinscloud.com/posts/game-dev-to-ai/</guid>
       <description>&lt;h1 id=&#34;hi-im-rin&#34;&gt;&#xA;  Hi, I&amp;rsquo;m Rin&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#hi-im-rin&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;I&amp;rsquo;ve always been passionate about creating things. My professional journey began in the world of &lt;strong&gt;game development&lt;/strong&gt;, where I discovered that programming was not just code: it was a way to bring ideas, worlds, and experiences to life.&lt;/p&gt;&#xA;&lt;h2 id=&#34;my-first-steps&#34;&gt;&#xA;  My First Steps&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#my-first-steps&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;I started my career as a &lt;strong&gt;game developer&lt;/strong&gt;, working on small projects that taught me the basics: game engines, physics, combat mechanics, and interactive storytelling. Every line of code was a challenge, but also an opportunity to learn and grow.&lt;/p&gt;</description>
     </item>
   </channel>

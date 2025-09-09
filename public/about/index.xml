@@ -2,10 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Abouts on Rin</title>
-    <link>http://localhost:1313/about/</link>
+    <link>http://rin.rinscloud.com/about/</link>
     <description>Recent content in Abouts on Rin</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <atom:link href="http://localhost:1313/about/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="http://rin.rinscloud.com/about/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

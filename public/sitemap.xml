@@ -2,49 +2,51 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/tags/ai/</loc>
+    <loc>http://rin.rinscloud.com/about/</loc>
+    <lastmod>2025-09-09T15:30:58-06:00</lastmod>
+  </url><url>
+    <loc>http://rin.rinscloud.com/portfolio/</loc>
+    <lastmod>2025-09-09T15:30:58-06:00</lastmod>
+  </url><url>
+    <loc>http://rin.rinscloud.com/</loc>
+    <lastmod>2025-09-09T15:30:58-06:00</lastmod>
+  </url><url>
+    <loc>http://rin.rinscloud.com/tags/ai/</loc>
     <lastmod>2025-09-09T15:27:52-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/authors/</loc>
+    <loc>http://rin.rinscloud.com/authors/</loc>
     <lastmod>2025-09-09T15:27:52-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/blog/</loc>
+    <loc>http://rin.rinscloud.com/categories/blog/</loc>
     <lastmod>2025-09-09T15:27:52-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/career/</loc>
+    <loc>http://rin.rinscloud.com/tags/career/</loc>
     <lastmod>2025-09-09T15:27:52-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>http://rin.rinscloud.com/categories/</loc>
     <lastmod>2025-09-09T15:27:52-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/game-dev-to-ai/</loc>
+    <loc>http://rin.rinscloud.com/posts/game-dev-to-ai/</loc>
     <lastmod>2025-09-09T15:27:52-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/game-development/</loc>
+    <loc>http://rin.rinscloud.com/tags/game-development/</loc>
     <lastmod>2025-09-09T15:27:52-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/personal/</loc>
+    <loc>http://rin.rinscloud.com/categories/personal/</loc>
     <lastmod>2025-09-09T15:27:52-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/personal-story/</loc>
+    <loc>http://rin.rinscloud.com/tags/personal-story/</loc>
     <lastmod>2025-09-09T15:27:52-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>http://rin.rinscloud.com/posts/</loc>
     <lastmod>2025-09-09T15:27:52-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>http://rin.rinscloud.com/authors/rin-ram%C3%ADrez/</loc>
     <lastmod>2025-09-09T15:27:52-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/authors/rin-ram%C3%ADrez/</loc>
+    <loc>http://rin.rinscloud.com/tags/</loc>
     <lastmod>2025-09-09T15:27:52-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2025-09-09T15:27:52-06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/about/</loc>
-  </url><url>
-    <loc>http://localhost:1313/portfolio/</loc>
-  </url><url>
-    <loc>http://localhost:1313/series/</loc>
+    <loc>http://rin.rinscloud.com/series/</loc>
   </url>
 </urlset>

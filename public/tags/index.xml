@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Rin</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>http://rin.rinscloud.com/tags/</link>
     <description>Recent content in Tags on Rin</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Tue, 09 Sep 2025 15:27:52 -0600</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://rin.rinscloud.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AI</title>
-      <link>http://localhost:1313/tags/ai/</link>
+      <link>http://rin.rinscloud.com/tags/ai/</link>
       <pubDate>Tue, 09 Sep 2025 15:27:52 -0600</pubDate>
-      <guid>http://localhost:1313/tags/ai/</guid>
+      <guid>http://rin.rinscloud.com/tags/ai/</guid>
       <description></description>
     </item>
     <item>
       <title>Career</title>
-      <link>http://localhost:1313/tags/career/</link>
+      <link>http://rin.rinscloud.com/tags/career/</link>
       <pubDate>Tue, 09 Sep 2025 15:27:52 -0600</pubDate>
-      <guid>http://localhost:1313/tags/career/</guid>
+      <guid>http://rin.rinscloud.com/tags/career/</guid>
       <description></description>
     </item>
     <item>
       <title>Game Development</title>
-      <link>http://localhost:1313/tags/game-development/</link>
+      <link>http://rin.rinscloud.com/tags/game-development/</link>
       <pubDate>Tue, 09 Sep 2025 15:27:52 -0600</pubDate>
-      <guid>http://localhost:1313/tags/game-development/</guid>
+      <guid>http://rin.rinscloud.com/tags/game-development/</guid>
       <description></description>
     </item>
     <item>
       <title>Personal Story</title>
-      <link>http://localhost:1313/tags/personal-story/</link>
+      <link>http://rin.rinscloud.com/tags/personal-story/</link>
       <pubDate>Tue, 09 Sep 2025 15:27:52 -0600</pubDate>
-      <guid>http://localhost:1313/tags/personal-story/</guid>
+      <guid>http://rin.rinscloud.com/tags/personal-story/</guid>
       <description></description>
     </item>
   </channel>
