@@ -1,4 +1,4 @@
-baseurl = "http://rin.rinscloud.com"
+baseurl = "https://rin.rinscloud.com"
 title = "Rin"
 theme = "hugo-coder"
 languagecode = "en"
